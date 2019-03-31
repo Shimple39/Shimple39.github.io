@@ -1,0 +1,39 @@
+#TitleBox
+{
+    border : 3px solid black;
+    height : 80px;
+    padding: 10px 20px 20px 10px;
+    border-radius: 5px;
+    margin-bottom : 50px;
+    font: italic bold 40px/1.6 arial, helvetica, serif;
+    text-align: center;
+}
+
+.first
+{
+    font : 100px/1.6 arial, helvetica, serif;
+    text-align: center;
+    text-underline-position: below;
+    margin-bottom : 30px;
+}
+
+section
+{
+    border : 2px solid orangered;
+    height : 300px;
+    padding: 20px;
+    font: 18px/1.6 Arial, Helvetica, sans-serif;
+    margin-bottom : 50px;
+}
+article
+{
+    margin-bottom : 50px;
+}
+
+
+footer
+{
+    font: 18px/1.6 Georgia, "맑은 고딕";    
+    align-content: inherit;
+    text-align : center;
+}
